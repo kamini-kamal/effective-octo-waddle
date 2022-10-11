@@ -1,0 +1,60 @@
+
+0
+java:S1220""Move this file to a named package.
+@
+java:S1197"*Move the array designators [] to the type.(âÌÃ»
+@
+java:S1197	"*Move the array designators [] to the type.(ßÉüº
+E
+java:S1197
+"*Move the array designators [] to the type.(Ÿ–Á‹ùÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ßÉüº
+E
+java:S1197"*Move the array designators [] to the type.(°›²ûÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¢ŸóŞúÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "e" parameter(´Õáëùÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(´Õáëùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ëúò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±½æúÿÿÿÿ
+P
+java:S1611"5Remove the parentheses around the "element" parameter(Ò”ıøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä´Íüşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ç¢¹Ûşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+D
+java:S1611#"/Remove the parentheses around the "e" parameter(Åûàn
+A
+java:S1602#",Remove useless curly braces around statement(Åûàn
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ëúò
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ûÛ ¤ıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Úº²ùÿÿÿÿ
+E
+java:S1197,"*Move the array designators [] to the type.(¸ÙîÓşÿÿÿÿ
+B
+java:S1602-",Remove useless curly braces around statement(èéÁ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Ëúò
+U
+java:S11184":Add a private constructor to hide the implicit public one.(ÅÉöÖùÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(ÎÖî÷ùÿÿÿÿ
+:
+java:S1659z"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+E
+java:S1197t"*Move the array designators [] to the type.(¤Œâìıÿÿÿÿ
+2
+java:S3626‘"Remove this redundant jump.(ÉŠ©ƒ
+:
+java:S1659 "#Declare "right" on a separate line.(ºá©×
+A
+java:S1197"*Move the array designators [] to the type.(ØöÊî
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ

@@ -1,0 +1,29 @@
+
+o
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÎƒˆ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÜÛÒ
+k	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ€ôıøÿÿÿÿ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡”İÍùÿÿÿÿ
+z
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+<
+java:S1905"&Remove this unnecessary cast to "int".(ŠÆ¶É
+L
+java:S18540"7Remove this useless assignment to local variable "url".(ËİØ$
+W
+java:S1854="<Remove this useless assignment to local variable "callable".(š‘õüÿÿÿÿ
+=
+java:S14810"(Remove this unused "url" local variable.(ËİØ$
+t
+java:S2142a"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+n
+java:S1602="SRemove useless curly braces around statement and then remove useless return keyword(š‘õüÿÿÿÿ
+Q	java:S125>"<This block of commented-out lines of code should be removed.(µŠŸó
+H
+java:S1481="-Remove this unused "callable" local variable.(š‘õüÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(æ–Ñ–øÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(±£ˆ©øÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ì¾–°ùÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ƒ¦´™
+Q	java:S125\"<This block of commented-out lines of code should be removed.(Û¯Ù
+>	java:S108a")Either remove or fill this block of code.(”ı¾
